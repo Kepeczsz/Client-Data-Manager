@@ -67,8 +67,9 @@ The database will be created automatically when you first run the application. E
 
 ### Starting the Application
 
-1. Run the application from Visual Studio (F5) or:
+1. Run the application from Visual Studio (F5) or navigate to the solution directory and run:
    ```bash
+   cd csv_loader
    dotnet run --project api/Modules.User.Application.csproj
    ```
 
