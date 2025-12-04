@@ -123,7 +123,7 @@ id,name,surename,email,phone
 **Columns**:
 - `id` - Unique client identifier (integer)
 - `name` - First name (string)
-- `surename` - Last name (string)
+- `surename` - Last name/surname (string) - Note: The CSV header uses "surename" which maps to the Surname property in the application
 - `email` - Email address (string, validated)
 - `phone` - Phone number (string)
 
