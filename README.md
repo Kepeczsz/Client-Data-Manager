@@ -1,10 +1,10 @@
-# CsvLoader
+# Client Data Manager
 
 A WPF desktop application for importing, managing, and editing client data from CSV files. Built with .NET 6, Entity Framework Core, and SQL Server LocalDB.
 
 ## Overview
 
-CsvLoader is a Windows desktop application that simplifies the process of importing client/employee data from CSV files into a database. It features a user-friendly interface for selecting files, validating data, and managing client records with full CRUD operations.
+Client Data Manager is a Windows desktop application that simplifies the process of importing client/employee data from CSV files into a database. It features a user-friendly interface for selecting files, validating data, and managing client records with full CRUD operations.
 
 ## Features
 
@@ -31,6 +31,7 @@ Before running the application, ensure you have:
    git clone https://github.com/Kepeczsz/CsvLoader.git
    cd CsvLoader
    ```
+   > **Note**: The repository is named `CsvLoader` but the application is now called "Client Data Manager"
 
 2. **Open the solution**:
    ```bash
