@@ -1,4 +1,4 @@
-# Client Data Manager (formerly CsvLoader)
+# Client Data Manager
 
 A WPF desktop application for importing, managing, and editing client data from CSV files. Built with .NET 6, Entity Framework Core, and SQL Server LocalDB.
 
